@@ -1,76 +1,105 @@
-<div align="center">
+<!-- ========================= -->
+<!--        PROFILE HEADER      -->
+<!-- ========================= -->
 
-# 👋 Hi, I'm Ela Soudani
+<h1 align="center">👋 Hi, I'm Ella Soudani</h1>
 
-### Embedded Systems & IoT Engineering
+<h3 align="center">
+  Embedded Systems & IoT Engineering
+</h3>
 
-**Embedded Systems · IoT · Industrial Monitoring · Intelligent Systems**
+<p align="center">
+  <b>Embedded Systems · IoT · Industrial Monitoring · Intelligent Systems</b>
+</p>
 
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-elasoudani123-181717?style=for-the-badge&logo=github)](https://github.com/elasoudani123)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/ella-soudani/))
-
-</div>
+<p align="center">
+  <a href="https://github.com/elasoudani123">
+    <img src="https://img.shields.io/badge/GitHub-elasoudani123-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/ella-soudani/)">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## ⚡ About Me
+## 👩‍💻 About Me
 
-I am an engineering student focused on **Embedded Systems and IoT**, with a strong interest in building systems that connect **physical devices, embedded software, communication technologies and intelligent data platforms**.
+I am an **Embedded Systems & IoT Engineering student** focused on designing systems that connect physical devices, embedded software, communication technologies, and intelligent data platforms.
 
-My projects range from **microcontroller-based systems and sensor integration** to **industrial monitoring, IoT architectures, real-time dashboards and AI/ML applications**.
+My projects range from **microcontroller-based systems and sensor integration** to **industrial monitoring, IoT architectures, real-time dashboards, and AI/ML applications**.
 
 I enjoy working at the intersection of:
 
-**Hardware → Firmware → Connectivity → Data → Intelligence**
+<p align="center">
+  <b>Hardware → Firmware → Connectivity → Data → Intelligence</b>
+</p>
 
 ---
 
-## 🧩 Engineering Focus
+# 🧩 Engineering Focus
 
-<table>
-<tr>
-<td width="33%" align="center">
+## ⚙️ Embedded Systems
 
-### 🔧 Embedded Systems
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,arduino&perline=6" />
+</p>
 
-ESP32  
-STM32  
-Arduino  
-Embedded C/C++  
-Sensors & Actuators  
-Hardware / Software Integration
+<p align="center">
+  <b>ESP32 · STM32 · Arduino · Embedded C/C++ · VHDL</b>
+</p>
 
-</td>
+<p align="center">
+  Sensors & Actuators · Hardware/Software Integration · Real-Time Systems
+</p>
 
-<td width="33%" align="center">
+---
 
-### 🌐 IoT & Connectivity
+## 📡 IoT & Connectivity
 
-BLE  
-MQTT  
-Wi-Fi  
-Remote Monitoring  
-Real-Time Systems  
-Connected Devices
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,arduino&perline=6" />
+</p>
 
-</td>
+<p align="center">
+  <b>BLE · MQTT · Wi-Fi · Remote Monitoring · Connected Devices</b>
+</p>
 
-<td width="33%" align="center">
+<p align="center">
+  Real-Time Communication · Sensor Networks · Industrial IoT
+</p>
 
-### 🧠 Intelligent Systems
+---
 
-Python  
-Machine Learning  
-Computer Vision  
-CNNs  
-Data Monitoring  
-Visualization
+## 📊 Data & Infrastructure
 
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,grafana,git&perline=6" />
+</p>
+
+<p align="center">
+  <b>Grafana · InfluxDB · Telegraf · Mosquitto · Docker Compose</b>
+</p>
+
+<p align="center">
+  Monitoring Dashboards · Time-Series Data · Data Visualization
+</p>
+
+---
+
+## 🧠 AI & Intelligent Systems
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn&perline=6" />
+</p>
+
+<p align="center">
+  <b>Python · Machine Learning · Computer Vision · CNNs</b>
+</p>
+
+<p align="center">
+  Image Classification · Data Processing · Intelligent Monitoring
+</p>
 
 ---
 
@@ -80,137 +109,196 @@ Visualization
 
 **ESP32 · MPU6050 · BLE · Flutter**
 
-A final-year embedded systems project combining motion sensing, embedded firmware, Bluetooth communication and a custom mobile dashboard for real-time workout monitoring.
+A final-year embedded systems project focused on motion tracking and connected fitness monitoring.
 
-**Key areas:**  
-`Embedded Systems` `Motion Sensing` `BLE` `ESP32` `Flutter`
+- 📡 Real-time Bluetooth communication between embedded device and mobile application
+- 📐 Motion sensing using MPU6050
+- ⚙️ ESP32-based embedded firmware
+- 📱 Custom Flutter mobile dashboard
+- 📊 Real-time visualization of movement and exercise metrics
+- 🔧 Hardware/software integration
+- 🧩 Custom PCB and 3D casing design
+
+> **Focus:** Embedded Systems · BLE · Motion Sensing · Mobile IoT
 
 ---
 
-### ⚡ Industrial Transformer Remote Monitoring
+### 🏭 Industrial Transformer Remote Monitoring
 
-**Embedded Systems · Industrial IoT · Remote Supervision**
+**Embedded Systems · Sensors · Remote Monitoring**
 
-A monitoring solution designed to transform manual transformer-state inspection into a remotely accessible monitoring system, improving visibility and enabling faster reaction to equipment conditions.
+An industrial monitoring system designed to transform traditional transformer status monitoring into a remotely accessible system.
 
-**Key areas:**  
-`Industrial IoT` `Embedded Systems` `Monitoring` `Remote Supervision`
+- ⚡ Monitoring of transformer operating states
+- 📡 Remote status transmission
+- 🖥️ Monitoring interface
+- 🔔 Real-time visibility of system conditions
+- 🏭 Designed around an industrial monitoring use case
+
+> **Focus:** Industrial IoT · Remote Monitoring · Embedded Systems
 
 ---
 
 ### 🖥️ SHEEE — Data Center Environmental Monitoring
 
-**MQTT · InfluxDB · Grafana · Telegraf · Docker**
+**MQTT · InfluxDB · Telegraf · Grafana · Docker**
 
-A connected monitoring platform designed to monitor **temperature, humidity and PDU voltage at rack level**, with real-time data ingestion, time-series storage, dashboards and alerts.
+An IoT monitoring platform designed for data-center rack-level environmental and electrical monitoring.
 
-**Architecture:**
+- 🌡️ Temperature monitoring
+- 💧 Humidity monitoring
+- ⚡ PDU voltage monitoring
+- 📡 MQTT-based data ingestion
+- 📊 Time-series storage with InfluxDB
+- 📈 Real-time Grafana dashboards
+- 🔄 Telegraf data collection
+- 🐳 Docker Compose deployment
 
-`Sensors → MQTT → Telegraf → InfluxDB → Grafana`
-
-**Key areas:**  
-`IoT` `MQTT` `Time-Series Data` `Grafana` `Docker`
+> **Focus:** Industrial IoT · Data Engineering · Monitoring · Infrastructure
 
 ---
 
-### ⚙️ STM32 Conveyor Belt Control
+### 🏗️ STM32 Conveyor Belt Control
 
 **STM32 · Embedded C · Industrial Automation**
 
-An embedded control project involving the implementation of conveyor-belt control using an STM32-based system as an alternative to conventional automation control.
+An embedded control project focused on replacing conventional automation control with an STM32-based solution.
 
-**Key areas:**  
-`STM32` `Embedded C` `Control Systems` `Industrial Automation`
+- ⚙️ STM32 microcontroller control
+- 🏭 Conveyor belt automation
+- 🔌 Hardware interfacing
+- 💻 Embedded C programming
+- 🔄 Real-time system control
+
+> **Focus:** Embedded Control · Industrial Automation · STM32
 
 ---
 
 ### 🏨 Hotel Energy Monitoring System
 
-**Gas · Water · Electricity · Monitoring**
+**IoT · Sensors · Monitoring · Data Visualization**
 
-A supervision system designed to track resource consumption in a hotel environment, providing centralized visibility over **gas, water and electricity usage**.
+A supervision system designed to monitor energy and resource consumption in a hotel environment.
 
-**Key areas:**  
-`Energy Monitoring` `IoT` `Supervision` `Data Visualization`
+- ⚡ Electricity consumption monitoring
+- 💧 Water consumption monitoring
+- 🔥 Gas consumption monitoring
+- 📊 Centralized supervision
+- 📈 Consumption visualization
+- 🌱 Energy-management-oriented monitoring
+
+> **Focus:** IoT · Energy Monitoring · Smart Buildings
 
 ---
 
-### 🤖 CNN-Based Damage Detection
+### 🧠 Real-Time Damage Detection Using CNNs
 
 **Python · CNN · Computer Vision · Machine Learning**
 
-A supervised image-classification project using Convolutional Neural Networks to classify images into **damage** and **no damage** categories.
+A computer-vision project for binary image classification between **damage** and **no damage**.
 
-**Key areas:**  
-`Machine Learning` `CNN` `Computer Vision` `Image Classification`
+- 🖼️ Image preprocessing
+- 🔍 128×128 image input
+- 🧠 Convolutional Neural Network
+- 📚 Training / validation / testing
+- 📊 Accuracy evaluation
+- 📈 Precision and recall analysis
+- 🔬 Computer vision for automated inspection
 
----
-
-# 🛠️ Technologies & Tools
-
-<div align="center">
-
-### Embedded & Hardware
-
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-
-### IoT & Data
-
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-### Software & AI
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-</div>
+> **Focus:** AI · Computer Vision · CNNs · Intelligent Inspection
 
 ---
 
-# 🎯 Technical Interests
+# 🛠️ Technical Stack
 
-- Embedded Systems
-- Internet of Things
-- Industrial IoT
-- Embedded Software
-- Industrial Automation
-- Real-Time Monitoring
-- Wireless Communication
-- Sensor Systems
-- Edge & Intelligent Systems
-- Artificial Intelligence
-- Computer Vision
+### 💻 Programming
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,java&perline=8" />
+</p>
+
+### 🔧 Embedded & Hardware
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,c,cpp&perline=8" />
+</p>
+
+<p align="center">
+  <b>ESP32 · STM32 · Arduino · VHDL · Sensors · Actuators · MPU6050</b>
+</p>
+
+### 📡 Communication & IoT
+
+<p align="center">
+  <b>BLE · MQTT · Wi-Fi · Remote Monitoring · IoT Architectures</b>
+</p>
+
+### 📊 Monitoring & Infrastructure
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,grafana,git&perline=8" />
+</p>
+
+<p align="center">
+  <b>InfluxDB · Telegraf · Mosquitto · Grafana · Docker Compose</b>
+</p>
+
+### 🧠 AI / ML
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn&perline=8" />
+</p>
+
+<p align="center">
+  <b>Machine Learning · Computer Vision · CNNs · Image Classification</b>
+</p>
+
+### 📱 Application Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,java&perline=8" />
+</p>
 
 ---
 
-# 📚 Engineering Approach
+# 🏗️ My Engineering Approach
 
-I am particularly interested in projects where **hardware and software have to work together as one system**.
-
-My approach is centered around:
+<p align="center">
 
 ```text
-        PHYSICAL SYSTEM
-              ↓
-       SENSORS / INPUT
-              ↓
-       EMBEDDED DEVICE
-              ↓
-       COMMUNICATION
-        ↙           ↘
-   REAL-TIME       DATA
-   CONTROL       PROCESSING
-        ↘           ↙
-        MONITORING
-              ↓
-        INTELLIGENT
-          SYSTEM
+        🌍 PHYSICAL WORLD
+               │
+               ▼
+      ┌─────────────────┐
+      │ Sensors / Inputs │
+      └────────┬────────┘
+               │
+               ▼
+      ┌─────────────────┐
+      │ Embedded Device │
+      │ ESP32 / STM32   │
+      └────────┬────────┘
+               │
+               ▼
+      ┌─────────────────┐
+      │ Communication   │
+      │ BLE / MQTT/Wi-Fi│
+      └────────┬────────┘
+               │
+               ▼
+      ┌─────────────────┐
+      │ Data Processing │
+      │ & Storage       │
+      └────────┬────────┘
+               │
+               ▼
+      ┌─────────────────┐
+      │ Monitoring      │
+      │ & Visualization │
+      └────────┬────────┘
+               │
+               ▼
+      ┌─────────────────┐
+      │ Intelligence    │
+      │ AI / ML / CNN   │
+      └─────────────────┘
